@@ -1,0 +1,11 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [ESE516_ExampleBaseProject_V1.BomDoc]
+   Generated File[Bill of Materials-ESE516_ExampleBaseProject_V1.xls]
+   Generated File[Bill of Materials-ESE516_ExampleBaseProject_V1.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:10:56 PM On 5/28/2019

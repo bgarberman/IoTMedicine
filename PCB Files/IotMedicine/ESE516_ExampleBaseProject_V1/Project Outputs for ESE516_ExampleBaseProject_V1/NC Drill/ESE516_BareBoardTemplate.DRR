@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESE516_BareBoardTemplate.PcbDoc   5/28/2019  5:10:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESE516_BareBoardTemplate.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             107       PTH        0.00mm (0.00inch)
+T2      0.457mm (18mil)                                           Round             4         PTH        0.00mm (0.00inch)
+T3      0.635mm (25mil)                                           Round             4         PTH        0.00mm (0.00inch)
+T4      0.65mm (26mil)                                            Round             10        PTH        0.00mm (0.00inch)
+T5      0.7mm (28mil)                                             Round             3         PTH        0.00mm (0.00inch)
+T6      0.9mm (35mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T7      1.016mm (40mil)                                           Round             2         PTH        0.00mm (0.00inch)
+T8      2.7mm (106mil)                                            Round             4         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              140
+
+Total Processing Time (hh:mm:ss) : 00:00:00
